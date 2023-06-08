@@ -1,0 +1,21 @@
+div.boxes {
+    float: left;
+    width: 50%;
+    clear: none; 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul li {
+    cursor: pointer;
+    margin: 20px;
+}
+
+ul li:hover {
+    background-color: #ddd;
+}
