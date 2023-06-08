@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status">
 <img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version">
-<img alt="GitHub package.json dependency version (prod)" src="https://img.shields.io/github/package-json/dependency-version/impesud/react-resume-template/react?style=flat">
+<img alt="GitHub package.json dependency version (prod)" src="https://img.shields.io/github/package-json/dependency-version/impesud/impesud-app-backend/react?style=flat">
 </p>
 
 ## About Laravel
